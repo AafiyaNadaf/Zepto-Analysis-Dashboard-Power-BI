@@ -23,4 +23,7 @@ This project analyzes sales data from Zepto, a quick-commerce platform, using Po
 
 ## Dashboard:
 
-![Screenshot 2025-04-23 231414]
+![Screenshot 2025-04-23 231414](https://github.com/user-attachments/assets/0ee36439-7a6a-431f-a659-be1f7319b4f8)
+
+
+
