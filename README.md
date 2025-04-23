@@ -19,3 +19,8 @@ This project analyzes sales data from Zepto, a quick-commerce platform, using Po
 
 ## Data Source:
 
+- <a href = "https://github.com/AafiyaNadaf/Zepto-Analysis-Dashboard-Power-BI/blob/main/ZEPTO.xlsx">Dataset</a>
+
+## Dashboard:
+
+![Screenshot 2025-04-23 231414](https://github.com/user-attachments/assets/254cacda-0548-49c0-825f-f24512265384)
